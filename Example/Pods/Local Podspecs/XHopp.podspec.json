@@ -1,0 +1,22 @@
+{
+  "name": "XHopp",
+  "version": "0.1.0",
+  "summary": "A short description of XHopp.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/375473898@qq.com/XHopp",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "375473898@qq.com": "375473898@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/375473898@qq.com/XHopp.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XHopp/Classes/**/*"
+}

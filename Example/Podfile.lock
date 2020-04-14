@@ -1,0 +1,16 @@
+PODS:
+  - XHopp (0.1.0)
+
+DEPENDENCIES:
+  - XHopp (from `../`)
+
+EXTERNAL SOURCES:
+  XHopp:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XHopp: a8ea896e825142a54a2f1ebeaafe8c7cf51cfb95
+
+PODFILE CHECKSUM: 2ab1811adfd0c851bfc6ff0be49c968997655c2b
+
+COCOAPODS: 1.9.1

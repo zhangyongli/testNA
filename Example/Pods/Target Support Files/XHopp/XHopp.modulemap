@@ -1,0 +1,6 @@
+framework module XHopp {
+  umbrella header "XHopp-umbrella.h"
+
+  export *
+  module * { export * }
+}
